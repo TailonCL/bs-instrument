@@ -1,0 +1,13 @@
+.instrumentos div img {
+  border-radius: 15px;
+  width:300px;
+}
+
+#x2bass {
+  margin-top: 90px;
+}
+
+#paw {
+  font-family: monospace;
+  margin: auto;
+}
